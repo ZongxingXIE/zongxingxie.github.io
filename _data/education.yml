@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   name: Stony Brook University
-  dates: Aug. 2017 - Jun. 2022 (expected)
+#  dates: Aug. 2017 - Jun. 2022 (expected)
   qualification: Ph.D. in Electrical and Computer Engineering
   quote: >
     Stony Brook University, widely regarded as a SUNY flagship, 
@@ -15,7 +15,7 @@
     communication skills (both oral and written) are refined over several research projects. 
 - layout: left
   name: Zhejiang University
-  dates: Aug. 2013 - Jun. 2017
+#  dates: Aug. 2013 - Jun. 2017
   qualification: Bachelor's Degree in Marine Techonology and Engineering
   quote: >
     Zhejiang University (Chinese: 浙江大学) 
@@ -30,7 +30,7 @@
 
 - layout: left
   name: University of Illinois at Urbana–Champaign
-  dates: Jun. 2016 - Aug. 2016
+#  dates: Jun. 2016 - Aug. 2016
   qualification: Summer Session
   quote: >
     The University of Illinois at Urbana–Champaign
