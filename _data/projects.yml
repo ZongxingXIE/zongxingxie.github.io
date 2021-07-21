@@ -9,7 +9,7 @@
     Developed a cross-modal training pipeline to take Doppler-Range map and Range-Azimuth map from mmWave chip as input, 
     and use the skeletal vector extracted from Depth Camera as ground truth for instant pose recognition, 
     and sequential poses for behavior recognition. 
-    (Working in process.)
+ #   (Working in process.)
     
     
 - layout: top-middle
@@ -24,7 +24,7 @@
     and estimate the heart rate and respiratory rate by spectral analysis. 
     Leveraged depth camera to recognize ID and instant behavior as context information 
     with Deep Learning models for long-term health data analytics. 
-    (Under review.)
+  #  (Under review.)
     
 
 
@@ -38,7 +38,7 @@
     Trained Deep Neural Network model as the feature extractor to get embeddings of the joint feature, 
     which combines acoustic and visual features collected from COTS smartphone, 
     and trained one-class SVM model for user identification/authentication. 
-    (Published in: IEEE International Conference on Communications (ICC) 2019.)
+ #   (Published in: IEEE International Conference on Communications (ICC) 2019.)
     
 
 
@@ -50,7 +50,8 @@
     [Edge Computing]
   description: | # this will include new lines to allow paragraphs
     Developed a self-organized clustering protocol for hierarchical peer data sharing among distributed devices. 
-    Implemented simulation with ns-3 platform. (Working in process.)
+    Implemented simulation with ns-3 platform. 
+  # (Working in process.)
     
     
 
