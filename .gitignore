@@ -4,3 +4,5 @@
 _site
 *.code-workspace
 vendor
+*.swp
+.DS_Store
