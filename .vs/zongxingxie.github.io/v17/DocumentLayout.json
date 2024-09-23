@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\publications.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:publications.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teaching.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\service.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:service.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "publications.html",
+              "DocumentMoniker": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\publications.html",
+              "RelativeDocumentMoniker": "publications.html",
+              "ToolTip": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\publications.html",
+              "RelativeToolTip": "publications.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-23T20:43:29.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "teaching.html",
+              "DocumentMoniker": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\teaching.html",
+              "RelativeDocumentMoniker": "teaching.html",
+              "ToolTip": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\teaching.html",
+              "RelativeToolTip": "teaching.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-23T19:26:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "service.html",
+              "DocumentMoniker": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\service.html",
+              "RelativeDocumentMoniker": "service.html",
+              "ToolTip": "C:\\Users\\zxie1\\Documents\\GitHub\\zongxingxie.github.io\\service.html",
+              "RelativeToolTip": "service.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-23T20:37:23.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
